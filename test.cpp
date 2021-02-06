@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "uint256.h"
-#include "scrypt.h"
+#include "utils/uint256.h"
+#include "scrypt/scrypt.h"
 
 int main(void)
 {

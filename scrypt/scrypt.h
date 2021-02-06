@@ -5,8 +5,8 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <inttypes.h>
-//#include "util.h"
-#include "uint256.h"
+
+#include "../utils/uint256.h"
 
 #define BEGIN(a)            ((char*)&(a))
 
