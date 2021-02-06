@@ -32,7 +32,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <compat/endian.h>
+//#include <compat/endian.h>
 
 void sha256_init(uint32_t *state);
 void sha256_transform(uint32_t *state, const uint32_t *block, int swap);
