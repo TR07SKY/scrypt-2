@@ -1,6 +1,6 @@
-This epic soviet hash algorithm (maded to be used in crypto PoW)
-uses a communist only-CPU combination of scrypt, yespower and m7 
-that destroys any posibility of capitalist GPU/FPGA or ASIC.
+This epic soviet hash algorithm (maded to be used in crypto PoW) \
+uses a communist only-CPU combination of scrypt, yespower and m7  \
+that destroys any posibility of capitalist GPU/FPGA or ASIC. \
 
 1st : do power2b over the input
 2st : do scrypt^2 over the output of power2b
