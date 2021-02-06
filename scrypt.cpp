@@ -28,7 +28,7 @@
  */
 
 #include "scrypt.h"
-#include "scrypt-armv8.c"
+//#include "scrypt-armv8.c"
 
 #include <stdlib.h>
 #include <string.h>
