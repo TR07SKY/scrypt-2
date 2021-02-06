@@ -11,3 +11,5 @@ This super epic soviet hash uses 128MB of RAM per mining thread!!!! \
 the scrypt^2 do the high RAM usage, power2b uses L2 cache to prevent \
 GPUs SM usage (too slow). m7 math fuck FPGAs / ASICs with the use of \
 IEEE754
+
+power2b : N=1024, r=32 : 4MB of RAM usage
