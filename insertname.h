@@ -18,7 +18,7 @@
 
 yespower_params_t params = { /* power2b init struct */
     .N = 1024,
-    .r = 8
+    .r = 32
 };
 
 template<typename T1>

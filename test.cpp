@@ -13,8 +13,6 @@ int main(void)
 	uint256 hash = hash_M7M_v2(BEGIN(nVersion), END(nNonce), nNonce);
 
 	printf("total: %s\n", hash.GetHex().c_str()); /* HEX print */
-	//printf("%s\n", blakeHash.GetHex().c_str());
-	/*printf("%u\n", hash); *//* "PURE" print */
 
 	return 0;
 }

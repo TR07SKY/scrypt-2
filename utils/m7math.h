@@ -4,9 +4,6 @@
 #ifndef XPI_MATH_H
 #define XPI_MATH_H
 
-//inline double exp_n(double xt);
-//inline double exp_n2(double x1, double x2);
-
 #include <math.h>
 
 void gauleg(double x1, double x2, double x[], double w[], int n);
