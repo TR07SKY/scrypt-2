@@ -19,4 +19,4 @@ Credits:
 - volbil   : power2b      : https://github.com/volbil/yespower 
 - verium   : scrypt^2     : https://github.com/VeriumReserve/verium/tree/master/src/crypto 
 - joelao95 : float math's : https://github.com/m-pays/magi/blob/master/src/magimath.cpp 
-- joelao95 : hash add sys : https://github.com/m-pays/magi/blob/master/src/hash_magi.h \
+- joelao95 : hash add sys : https://github.com/m-pays/magi/blob/master/src/hash_magi.h 
