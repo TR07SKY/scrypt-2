@@ -16,7 +16,7 @@ power2b  : N=1024, r=32   : 4MB of RAM usage \
 scrypt^2 : N=1048576, r=1 : 128MB of RAM usage
 
 Credits:
-- volbil   : power2b      : https://github.com/volbil/yespower \
-- verium   : scrypt^2     : https://github.com/VeriumReserve/verium/tree/master/src/crypto \
-- joelao95 : float math's : https://github.com/m-pays/magi/blob/master/src/magimath.cpp \
-                            https://github.com/m-pays/magi/blob/master/src/hash_magi.h
+- volbil   : power2b      : https://github.com/volbil/yespower 
+- verium   : scrypt^2     : https://github.com/VeriumReserve/verium/tree/master/src/crypto 
+- joelao95 : float math's : https://github.com/m-pays/magi/blob/master/src/magimath.cpp 
+                          :  https://github.com/m-pays/magi/blob/master/src/hash_magi.h
