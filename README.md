@@ -22,6 +22,8 @@ scrypt^2 : N=1048576, r=1 :
 - ARMv7 (3way) : 384MB -> nr_hugepages = 193.
 - ARMv8 (3way) : 384MB -> nr_hugepages = 193.
 
+(depending of your cpu advantages, is more or less memory usage)
+
 Credits:
 - volbil   : power2b      : https://github.com/volbil/yespower 
 - verium   : scrypt^2     : https://github.com/VeriumReserve/verium/tree/master/src/crypto 
