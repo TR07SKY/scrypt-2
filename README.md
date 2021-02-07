@@ -13,7 +13,14 @@ GPUs SM usage (too slow). m7 math fuck FPGAs / ASICs with the use of \
 IEEE754
 
 power2b  : N=1024, r=32   : 4MB of RAM usage \
-scrypt^2 : N=1048576, r=1 : 128MB of RAM usage
+scrypt^2 : N=1048576, r=1 :
+
+- 1way : 128MB -> nr_hugepages = 65.
+- SSE4 (3way) : 384MB -> nr_hugepages = 193.
+- AVX (3way) : 384MB -> nr_hugepages = 193.
+- AVX2 (6way) : 768MB -> nr_hugepages = 386.
+- ARMv7 (3way) : 384MB -> nr_hugepages = 193.
+- ARMv8 (3way) : 384MB -> nr_hugepages = 193.
 
 Credits:
 - volbil   : power2b      : https://github.com/volbil/yespower 
